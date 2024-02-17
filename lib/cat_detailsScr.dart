@@ -29,7 +29,7 @@ class CatDetailsScr extends StatelessWidget {
           //   ),
           // ),
           LikeButton(
-            padding: EdgeInsets.only(right: 8),
+            padding: EdgeInsets.only(right: 20),
           )
         ],
       ),
